@@ -42,7 +42,7 @@ header {
 }
 
 main {
-
+	width: 50%;
 }
 
 p {
@@ -55,15 +55,15 @@ p {
 }
 
 #automotive, #maritime, #medical, #physics, #myths {
-
+	width: auto;
 }
 
 #footer-container {
-	
+	width: auto;
 }
 
 #header-container {
-
+	width: auto;
 }
 
 #main-container {
